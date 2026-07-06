@@ -76,9 +76,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0031-next-permutation) |
 | [1288-remove-covered-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1288-remove-covered-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
