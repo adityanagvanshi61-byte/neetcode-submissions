@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0042-trapping-rain-water](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -110,6 +111,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0055-jump-game) |
 | [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
 ## Stack
 |  |
@@ -184,4 +186,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
