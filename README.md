@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
+| [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [1288-remove-covered-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -104,6 +105,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
 ## Stack
 |  |
 | ------- |
