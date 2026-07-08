@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0040-combination-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -107,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
 ## Stack
 |  |
@@ -176,4 +178,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0040-combination-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
