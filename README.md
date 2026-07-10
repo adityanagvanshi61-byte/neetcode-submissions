@@ -126,6 +126,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0006-zigzag-conversion) |
+| [0058-length-of-last-word](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
