@@ -169,6 +169,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
@@ -182,6 +183,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
+| [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
 | ------- |
@@ -195,5 +197,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
