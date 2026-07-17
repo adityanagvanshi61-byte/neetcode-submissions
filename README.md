@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1288-remove-covered-intervals) |
+| [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -138,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
 |  |
@@ -153,11 +155,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0138-copy-list-with-random-pointer](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
+| [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
+| [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
@@ -182,6 +186,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Breadth-First Search
 |  |
@@ -223,4 +228,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
