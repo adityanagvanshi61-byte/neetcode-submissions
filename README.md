@@ -113,6 +113,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0165-compare-version-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
+| [0633-sum-of-square-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -163,6 +165,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
+| [0633-sum-of-square-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
