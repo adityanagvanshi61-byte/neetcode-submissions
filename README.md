@@ -92,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
 | [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
+| [0704-binary-search](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1288-remove-covered-intervals) |
@@ -139,6 +140,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
