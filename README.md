@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0001-two-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0041-first-missing-positive) |
@@ -140,6 +141,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0704-binary-search) |
