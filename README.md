@@ -139,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0165-compare-version-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [1392-longest-happy-prefix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1392-longest-happy-prefix) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -255,12 +256,15 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
