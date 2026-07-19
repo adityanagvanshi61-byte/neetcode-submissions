@@ -139,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0006-zigzag-conversion](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0058-length-of-last-word) |
+| [0093-restore-ip-addresses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0093-restore-ip-addresses) |
 | [0165-compare-version-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0394-decode-string) |
@@ -219,6 +220,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0040-combination-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0077-combinations) |
+| [0093-restore-ip-addresses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0093-restore-ip-addresses) |
 ## Greedy
 |  |
 | ------- |
