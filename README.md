@@ -140,6 +140,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0214-shortest-palindrome](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1392-longest-happy-prefix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1392-longest-happy-prefix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -281,4 +282,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
