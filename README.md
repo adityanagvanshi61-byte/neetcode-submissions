@@ -127,6 +127,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0058-length-of-last-word](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0214-shortest-palindrome) |
+| [0394-decode-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1392-longest-happy-prefix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1392-longest-happy-prefix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -282,6 +284,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
