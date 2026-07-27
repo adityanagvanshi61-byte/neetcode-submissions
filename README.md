@@ -141,6 +141,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0093-restore-ip-addresses) |
 | [0165-compare-version-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0165-compare-version-numbers) |
