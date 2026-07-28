@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
 | [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
@@ -127,6 +128,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0045-jump-game-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0055-jump-game) |
 | [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Stack
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0045-jump-game-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0055-jump-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Graph Theory
 |  |
