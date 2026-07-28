@@ -127,6 +127,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0042-trapping-rain-water](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0072-edit-distance) |
 | [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Stack
@@ -146,6 +147,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0006-zigzag-conversion](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0093-restore-ip-addresses) |
 | [0165-compare-version-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0214-shortest-palindrome) |
