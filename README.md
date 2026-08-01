@@ -93,6 +93,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0216-combination-sum-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
+| [0486-predict-the-winner](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -130,6 +131,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0045-jump-game-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0072-edit-distance) |
+| [0486-predict-the-winner](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Stack
@@ -192,6 +194,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -312,6 +315,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0394-decode-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Simulation
@@ -319,4 +323,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
