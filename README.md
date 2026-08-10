@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0216-combination-sum-iii) |
@@ -141,6 +142,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0055-jump-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -166,6 +168,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0072-edit-distance](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0093-restore-ip-addresses) |
 | [0132-palindrome-partitioning-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0394-decode-string) |
@@ -200,6 +203,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0041-first-missing-positive](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -355,4 +359,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0486-predict-the-winner](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1406-stone-game-iii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
