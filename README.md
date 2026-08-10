@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -128,6 +129,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0042-trapping-rain-water](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0165-compare-version-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
 | [0633-sum-of-square-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
@@ -176,6 +178,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0704-binary-search) |
