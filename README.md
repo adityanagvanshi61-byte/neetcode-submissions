@@ -96,6 +96,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
 | [0486-predict-the-winner](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0486-predict-the-winner) |
@@ -264,6 +265,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
