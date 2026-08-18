@@ -117,6 +117,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -225,6 +226,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Math
