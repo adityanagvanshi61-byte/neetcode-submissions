@@ -292,6 +292,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0037-sudoku-solver](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0216-combination-sum-iii) |
@@ -413,6 +414,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0037-sudoku-solver) |
+| [0052-n-queens-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
