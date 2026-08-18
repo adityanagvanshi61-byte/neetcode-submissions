@@ -87,6 +87,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0042-trapping-rain-water](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
@@ -292,6 +293,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0037-sudoku-solver](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0093-restore-ip-addresses) |
@@ -414,6 +416,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
