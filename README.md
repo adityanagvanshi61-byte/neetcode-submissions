@@ -161,6 +161,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1510-stone-game-iv) |
 ## Stack
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0877-stone-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -399,6 +401,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0486-predict-the-winner](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1510-stone-game-iv) |
 ## Trie
 |  |
 | ------- |
@@ -430,4 +433,20 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
