@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0055-jump-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
@@ -219,6 +220,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0036-valid-sudoku](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
@@ -264,6 +266,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0036-valid-sudoku](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 ## Union-Find
