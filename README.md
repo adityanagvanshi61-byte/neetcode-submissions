@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0046-permutations](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
@@ -127,6 +128,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1200-minimum-absolute-difference) |
@@ -454,4 +456,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1510-stone-game-iv) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
