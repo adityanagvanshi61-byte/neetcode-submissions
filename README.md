@@ -93,6 +93,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0059-spiral-matrix-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -204,6 +205,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
@@ -271,6 +273,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0037-sudoku-solver](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 ## Union-Find
