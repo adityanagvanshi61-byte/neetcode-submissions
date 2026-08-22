@@ -460,4 +460,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0056-merge-intervals) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
