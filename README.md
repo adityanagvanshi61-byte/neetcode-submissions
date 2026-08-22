@@ -159,6 +159,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0042-trapping-rain-water](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
@@ -249,6 +250,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0390-elimination-game) |
@@ -358,6 +360,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
