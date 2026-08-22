@@ -102,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0169-majority-element](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
@@ -132,6 +133,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0056-merge-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [1200-minimum-absolute-difference](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -231,6 +233,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0138-copy-list-with-random-pointer](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0567-permutation-in-string) |
@@ -360,6 +363,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
@@ -443,6 +447,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0229-majority-element-ii) |
 ## Minimax
 |  |
 | ------- |
