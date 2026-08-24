@@ -185,6 +185,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0058-length-of-last-word) |
@@ -226,6 +227,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0041-first-missing-positive) |
@@ -290,6 +292,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
