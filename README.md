@@ -201,6 +201,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0394-decode-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1392-longest-happy-prefix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1392-longest-happy-prefix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -423,6 +424,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0059-spiral-matrix-ii) |
+| [0657-robot-return-to-origin](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Game Theory
