@@ -430,6 +430,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0874-walking-robot-simulation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2069-walking-robot-simulation-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -498,4 +499,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
