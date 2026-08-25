@@ -111,6 +111,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0643-maximum-average-subarray-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0874-walking-robot-simulation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1200-minimum-absolute-difference) |
@@ -244,6 +245,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0424-longest-repeating-character-replacement](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0567-permutation-in-string) |
+| [0874-walking-robot-simulation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -425,6 +427,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Game Theory
