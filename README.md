@@ -287,6 +287,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0021-merge-two-sorted-lists](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
