@@ -155,6 +155,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0160-intersection-of-two-linked-lists](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0567-permutation-in-string) |
@@ -181,6 +182,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -292,6 +294,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0138-copy-list-with-random-pointer](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Matrix
 |  |
@@ -428,6 +431,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0021-merge-two-sorted-lists](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0394-decode-string) |
