@@ -288,6 +288,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0206-reverse-linked-list) |
@@ -425,6 +426,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0390-elimination-game) |
