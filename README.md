@@ -287,6 +287,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3871-count-commas-in-range-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3871-count-commas-in-range-ii) |
 ## Linked List
 |  |
 | ------- |
