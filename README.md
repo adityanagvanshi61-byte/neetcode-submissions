@@ -112,6 +112,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0643-maximum-average-subarray-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0835-image-overlap](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
@@ -311,6 +312,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0059-spiral-matrix-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 ## Union-Find
