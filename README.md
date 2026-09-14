@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -139,6 +140,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -152,6 +154,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0031-next-permutation) |
