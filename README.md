@@ -99,6 +99,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -177,6 +178,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0118-pascals-triangle](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
