@@ -149,6 +149,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0215-kth-largest-element-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0455-assign-cookies) |
+| [1096-brace-expansion-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -205,6 +206,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0234-palindrome-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -229,6 +231,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0567-permutation-in-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1392-longest-happy-prefix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1392-longest-happy-prefix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1927-sum-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1927-sum-game) |
@@ -275,6 +278,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0874-walking-robot-simulation) |
+| [1096-brace-expansion-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -365,6 +369,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
@@ -378,6 +383,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0077-combinations](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
