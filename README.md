@@ -302,6 +302,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -482,6 +483,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
