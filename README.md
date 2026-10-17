@@ -140,6 +140,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3483-unique-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3731-find-missing-elements) |
@@ -160,6 +161,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -304,6 +306,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Math
