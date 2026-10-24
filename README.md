@@ -254,6 +254,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1927-sum-game) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2409-count-days-spent-together](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -333,6 +334,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1922-count-good-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3524-find-x-value-of-array-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
