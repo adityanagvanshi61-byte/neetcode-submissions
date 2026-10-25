@@ -25,6 +25,7 @@ class Solution {
                 // ERROR FIX: Check V[i][j], not adj.get(i).get(j)
                 if (V[i][j] == 1 && i != j) {
                     adj.get(i).add(j);
+                    adj.get(j).add(i);
                 }
             }
         }
