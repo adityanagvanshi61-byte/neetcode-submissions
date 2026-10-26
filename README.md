@@ -144,6 +144,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3524-find-x-value-of-array-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3731-find-missing-elements) |
@@ -370,6 +371,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -378,6 +380,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -407,6 +410,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1096-brace-expansion-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -451,6 +455,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
