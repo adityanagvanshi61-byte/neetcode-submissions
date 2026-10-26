@@ -1,52 +1,65 @@
+
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int rows = grid.length;
-        int cols = grid[0].length;
+        int n = grid.length;
+        int m = grid[0].length;
+        int ans = 0;
 
-        Queue<int[]> q = new LinkedList<>();
-        int fresh = 0;
+        Queue<Pair<Pair<Integer, Integer>, Integer>> q = new LinkedList<>();
 
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (grid[r][c] == 2) {
-                    q.offer(new int[]{r, c});
-                } else if (grid[r][c] == 1) {
-                    fresh++;
+        boolean[][] vis = new boolean[n][m]; // Fixed: dimensions were reversed
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 2) {
+                    q.add(new Pair<>(new Pair<>(i, j), 0)); // Fixed Pair syntax
+                    vis[i][j] = true;
                 }
             }
         }
-
-        if (fresh == 0) return 0;
-
-        int minutes = 0;
-        int[][] dir = {{0,1}, {0,-1}, {1,0}, {-1,0}};
 
         while (!q.isEmpty()) {
-            int size = q.size();
-            boolean rotted = false;
+            int i = q.peek().getKey().getKey();
+            int j = q.peek().getKey().getValue();
+            int time = q.peek().getValue();
+            q.poll();
 
-            for (int i = 0; i < size; i++) {
-                int[] curr = q.poll();
+            ans = Math.max(ans, time);
 
-                for (int[] d : dir) {
-                    int nr = curr[0] + d[0];
-                    int nc = curr[1] + d[1];
-
-                    if (nr >= 0 && nr < rows &&
-                        nc >= 0 && nc < cols &&
-                        grid[nr][nc] == 1) {
-
-                        grid[nr][nc] = 2;
-                        fresh--;
-                        q.offer(new int[]{nr, nc});
-                        rotted = true;
-                    }
-                }
+            // Top
+            if (i - 1 >= 0 && !vis[i - 1][j] && grid[i - 1][j] == 1) {
+                q.add(new Pair<>(new Pair<>(i - 1, j), time + 1));
+                vis[i - 1][j] = true;
             }
 
-            if (rotted) minutes++;
+            // Right
+            if (j + 1 < m && !vis[i][j + 1] && grid[i][j + 1] == 1) {
+                q.add(new Pair<>(new Pair<>(i, j + 1), time + 1));
+                vis[i][j + 1] = true;
+            }
+
+            // Down
+            if (i + 1 < n && !vis[i + 1][j] && grid[i + 1][j] == 1) {
+                q.add(new Pair<>(new Pair<>(i + 1, j), time + 1));
+                vis[i + 1][j] = true;
+            }
+
+            // Left
+            if (j - 1 >= 0 && !vis[i][j - 1] && grid[i][j - 1] == 1) {
+                q.add(new Pair<>(new Pair<>(i, j - 1), time + 1));
+                vis[i][j - 1] = true;
+            }
         }
 
-        return fresh == 0 ? minutes : -1;
+        // Check if any fresh orange remains
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 1 && !vis[i][j]) {
+                    return -1;
+                }
+            }
+        }
+
+        return ans;
     }
 }
