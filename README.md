@@ -114,6 +114,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0485-max-consecutive-ones](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -205,6 +206,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0241-different-ways-to-add-parentheses](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1406-stone-game-iii) |
@@ -366,6 +368,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0059-spiral-matrix-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
@@ -403,6 +406,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
