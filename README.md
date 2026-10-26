@@ -122,6 +122,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0874-walking-robot-simulation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1200-minimum-absolute-difference](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
@@ -367,12 +368,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0733-flood-fill](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
@@ -400,6 +403,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3310-remove-methods-from-project) |
@@ -444,6 +448,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
