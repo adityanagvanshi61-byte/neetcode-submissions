@@ -104,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0229-majority-element-ii) |
@@ -371,6 +372,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0059-spiral-matrix-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0835-image-overlap) |
@@ -383,6 +385,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
@@ -410,6 +413,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0733-flood-fill) |
@@ -458,6 +462,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
