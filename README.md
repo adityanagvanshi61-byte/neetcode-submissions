@@ -147,6 +147,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3731-find-missing-elements) |
@@ -217,6 +218,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
@@ -384,6 +386,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
