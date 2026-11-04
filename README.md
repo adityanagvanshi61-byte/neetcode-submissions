@@ -98,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0152-maximum-product-subarray) |
@@ -382,6 +383,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0059-spiral-matrix-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0733-flood-fill) |
@@ -396,6 +398,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
@@ -425,6 +428,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
@@ -475,6 +479,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0733-flood-fill) |
