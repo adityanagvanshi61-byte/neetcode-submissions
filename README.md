@@ -143,6 +143,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -217,6 +218,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1510-stone-game-iv](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -325,6 +327,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -352,6 +355,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2409-count-days-spent-together](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -408,6 +412,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1248-count-number-of-nice-subarrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -495,6 +500,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
