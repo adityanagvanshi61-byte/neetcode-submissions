@@ -130,6 +130,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1248-count-number-of-nice-subarrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -169,6 +170,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1096-brace-expansion-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -196,6 +198,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0457-circular-array-loop](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -285,6 +288,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0287-find-the-duplicate-number](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
