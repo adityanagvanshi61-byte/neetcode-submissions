@@ -139,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2747-count-zero-request-servers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -174,6 +175,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2747-count-zero-request-servers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -326,6 +328,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1386-cinema-seat-allocation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2747-count-zero-request-servers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -417,6 +420,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0567-permutation-in-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
