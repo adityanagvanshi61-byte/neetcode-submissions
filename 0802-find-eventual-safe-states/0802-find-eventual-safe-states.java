@@ -1,49 +1,48 @@
 class Solution {
-    public List<Integer> eventualSafeNodes(int[][] graph) {
 
-        int n = graph.length;
+    public boolean dfs(int node, int[][] graph, int[] vis) {
 
-        List<List<Integer>> adj = new ArrayList<>();
-        int[] indegree = new int[n];
+        vis[node] = 1; // Currently visiting
 
-        for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>());
-        }
+        for (int v : graph[node]) {
 
-        // Reverse the graph
-        for (int i = 0; i < n; i++) {
-            for (int v : graph[i]) {
-                adj.get(v).add(i);
-                indegree[i]++;
+            if (vis[v] == 1) {
+                return true; // Cycle detected
             }
-        }
 
-        Queue<Integer> q = new LinkedList<>();
-
-        // Terminal nodes
-        for (int i = 0; i < n; i++) {
-            if (indegree[i] == 0) {
-                q.add(i);
-            }
-        }
-
-        List<Integer> ans = new ArrayList<>();
-
-        // BFS
-        while (!q.isEmpty()) {
-            int node = q.poll();
-            ans.add(node);
-
-            for (int v : adj.get(node)) {
-                indegree[v]--;
-
-                if (indegree[v] == 0) {
-                    q.add(v);
+            if (vis[v] == 0) {
+                if (dfs(v, graph, vis)) {
+                    return true;
                 }
             }
         }
 
-        Collections.sort(ans);
+        vis[node] = 2; // Completely processed and safe
+
+        return false;
+    }
+
+    public List<Integer> eventualSafeNodes(int[][] graph) {
+
+        int n = graph.length;
+
+        int[] vis = new int[n];
+
+        List<Integer> ans = new ArrayList<>();
+
+        for (int i = 0; i < n; i++) {
+
+            if (vis[i] == 0) {
+                dfs(i, graph, vis);
+            }
+        }
+
+        for (int i = 0; i < n; i++) {
+            if (vis[i] == 2) {
+                ans.add(i);
+            }
+        }
+
         return ans;
     }
 }
