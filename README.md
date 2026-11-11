@@ -372,6 +372,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3871-count-commas-in-range-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3871-count-commas-in-range-ii) |
 ## Linked List
 |  |
@@ -482,6 +483,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Graph Theory
 |  |
 | ------- |
