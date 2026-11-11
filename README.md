@@ -446,6 +446,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0542-01-matrix](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1096-brace-expansion-ii) |
@@ -486,6 +487,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0207-course-schedule](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -498,6 +500,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0207-course-schedule](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3310-remove-methods-from-project) |
@@ -696,6 +699,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -704,4 +708,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
