@@ -1,31 +1,54 @@
 class Solution {
-    public boolean canFinish(int n, int[][] pre) {
-        List<List<Integer>> adj= new ArrayList<>();
-        for(int i=1;i<=n;i++) adj.add(new ArrayList<>());
-        int[] indegree=new int[n];
-        for(int i=0;i<pre.length;i++){
-            int a=pre[i][0],b=pre[i][1];
-            adj.get(b).add(a);
-            indegree[a]++;
+
+    public boolean dfs(int node, List<List<Integer>> adj, int[] vis) {
+
+        vis[node] = 1;
+
+        for (int v : adj.get(node)) {
+
+            if (vis[v] == 1) {
+                return false; // Cycle detected
+            }
+
+            if (vis[v] == 0) {
+                if (!dfs(v, adj, vis)) {
+                    return false;
+                }
+            }
         }
-            Queue<Integer> q= new LinkedList<>();
-            List<Integer> ans= new ArrayList<>();
-            for(int i=0;i<n;i++){
-                if(indegree[i]==0){
-                    q.add(i);
+
+        vis[node] = 2;
+
+        return true;
+    }
+
+    public boolean canFinish(int numCourses, int[][] prerequisites) {
+
+        List<List<Integer>> adj = new ArrayList<>();
+
+        for (int i = 0; i < numCourses; i++) {
+            adj.add(new ArrayList<>());
+        }
+
+        // Build directed graph
+        for (int[] p : prerequisites) {
+            int u = p[1];
+            int v = p[0];
+
+            adj.get(u).add(v);
+        }
+
+        int[] vis = new int[numCourses];
+
+        for (int i = 0; i < numCourses; i++) {
+
+            if (vis[i] == 0) {
+                if (!dfs(i, adj, vis)) {
+                    return false;
                 }
             }
-            while(q.size()>0){
-                int front=q.remove();
-                ans.add(front);
-                for(int ele :adj.get(front)){
-                    indegree[ele]--;
-                    if(indegree[ele]==0){
-                        q.add(ele);
-                    }
-                }
-            }
-        if(ans.size()==n) return true;
-        else return false;
+        }
+
+        return true;
     }
 }
