@@ -238,6 +238,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -502,6 +503,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0547-number-of-provinces) |
@@ -696,6 +698,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Shortest Path
 |  |
@@ -722,4 +725,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0802-find-eventual-safe-states) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
