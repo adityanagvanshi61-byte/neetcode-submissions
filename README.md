@@ -207,6 +207,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0633-sum-of-square-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1510-stone-game-iv](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
@@ -283,6 +285,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2409-count-days-spent-together](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
