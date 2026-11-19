@@ -141,6 +141,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -180,6 +181,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -490,6 +492,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1927-sum-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
