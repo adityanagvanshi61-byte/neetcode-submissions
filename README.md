@@ -455,6 +455,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0207-course-schedule) |
@@ -708,6 +709,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Shortest Path
@@ -738,5 +740,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
