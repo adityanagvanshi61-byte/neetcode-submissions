@@ -287,6 +287,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2409-count-days-spent-together](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
