@@ -130,6 +130,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1248-count-number-of-nice-subarrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1288-remove-covered-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1406-stone-game-iii) |
@@ -374,6 +375,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0836-rectangle-overlap](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -451,6 +453,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -696,6 +699,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 ## Geometry
 |  |
@@ -748,4 +752,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
