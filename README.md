@@ -389,6 +389,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2409-count-days-spent-together](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3360-stone-removal-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3524-find-x-value-of-array-i) |
@@ -634,6 +635,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2069-walking-robot-simulation-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
+| [3360-stone-removal-game](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3360-stone-removal-game) |
 ## Game Theory
 |  |
 | ------- |
