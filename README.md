@@ -169,6 +169,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3903-smallest-stable-index-i) |
 | [3934-smallest-unique-subarray](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3665-twisted-mirror-path-count](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -514,6 +516,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/adityanagvanshi61-byte/neetcode-submissions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Graph Theory
 |  |
 | ------- |
